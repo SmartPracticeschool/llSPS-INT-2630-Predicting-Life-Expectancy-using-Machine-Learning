@@ -1,0 +1,24 @@
+[
+    {
+        "id": "214be5c5.32a5ca",
+        "type": "http request",
+        "z": "194ae0c4.97ac7f",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://eu-gb.ml.cloud.ibm.com/v3/wml_instances/be62309d-89b8-4d21-9a33-22b9c555ccd1/deployments/deb09231-126e-4333-a577-4fada49ab6b6/online",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 590,
+        "y": 300,
+        "wires": [
+            [
+                "308961d0.0c94be",
+                "c7313960.1f53a8"
+            ]
+        ]
+    }
+]
