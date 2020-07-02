@@ -1,0 +1,24 @@
+[
+    {
+        "id": "d0a8a5d2.40f2e8",
+        "type": "http request",
+        "z": "76c86f4b.e844f",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": false,
+        "url": "https://eu-gb.ml.cloud.ibm.com/v4/deployments/1c5e128c-96ae-47b6-b517-bc944e443186/predictions",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 590,
+        "y": 280,
+        "wires": [
+            [
+                "6e4d4360.425dcc",
+                "547b5bff.120024"
+            ]
+        ]
+    }
+]
